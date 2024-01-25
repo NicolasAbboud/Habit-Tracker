@@ -21,14 +21,14 @@ First of all, you have to download the python 3.9.0 version on your operating sy
 ### Install the needed packages
 
 Curses for Windows:
-'''shell
-pip install pip install windows-curses
-''' 
+````commandline
+pip install windows-curses
+````
 
 Pytest:
-'''shell
+````commandline
 pip install pip install pytest
-''' 
+```` 
 
 
 ## Usage
