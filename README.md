@@ -1,4 +1,4 @@
-![image_15](https://github.com/NicolasAbboud/Habit-Tracker/assets/143742395/036867ff-65ff-4d44-a1a3-8700384ec074)# Habit Tracker Application
+# Habit Tracker Application
 
 This application will help users track and maintain their desired behaviors and will facilitate habit formation for them by tracking their 
 habits and providing them with tools to analyze those habits. 
