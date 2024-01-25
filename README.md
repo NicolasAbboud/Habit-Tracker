@@ -40,7 +40,9 @@ Type the following:
 python main.py
 ````
 
-Now the programming is running.
+Now the programming is running and you should see the main menu.
+![image_1](https://github.com/NicolasAbboud/Habit-Tracker/assets/143742395/ff825ed6-051e-49a9-aefd-d51be36e8e1b)
+
 
 
 
