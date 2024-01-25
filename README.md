@@ -1,6 +1,9 @@
-# Habit Tracking Application
+# Habit Tracker Application
 
-Some Description Here
+This application will help users track and maintain their desired behaviors, such as exercising, meditating, 
+reading, sleeping, etc. The application will facilitate habit formation for the users by tracking their 
+habits and providing them with tools to analyze those habits.
+
 
 ## what is it?
 
