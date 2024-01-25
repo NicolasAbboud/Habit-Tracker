@@ -50,7 +50,7 @@ DOWN Key to move to the lower choice.
 RIGHT Key or ENTER Key to select a choice.
 LEFT Key to go back.
 
-#### Viewing Your Habits
+### Viewing Your Habits
 Select the first choice "List My Habits", you will get this:  
 
 ![image_2](https://github.com/NicolasAbboud/Habit-Tracker/assets/143742395/6c34c4e8-7ee5-4455-98cd-c005075045d8)  
@@ -61,7 +61,7 @@ Now you can easily see all of your habits. You can filter them. Select "Today's 
 
 ![image_4](https://github.com/NicolasAbboud/Habit-Tracker/assets/143742395/fd190f36-3165-438d-8406-d61d94da7aec)  
 
-#### Operations on Individual Habits
+### Operations on Individual Habits
 Select the habit on which you want to do an operation.  
 
 ![image_5](https://github.com/NicolasAbboud/Habit-Tracker/assets/143742395/c32500c8-e7a6-457a-ab68-713d5b553174)  
@@ -70,7 +70,7 @@ You will get the following screen:
 
 ![image_6](https://github.com/NicolasAbboud/Habit-Tracker/assets/143742395/b9c82d64-cc22-4e02-8527-1a4748630f2d)  
 
-##### Mark as Completed
+#### Mark as Completed
 Select the "Mark as Completed" choice.
 
 
