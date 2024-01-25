@@ -15,10 +15,10 @@ habits and providing them with tools to analyze those habits.
 
 ## Installation
 
-### Install Python 3.9.0 
+### Python 3.9.0 
 First of all, you have to download the python 3.9.0 version on your operating system. You can download this from python's [official website](https://www.python.org/downloads/).
 
-### Install the needed packages
+### The needed packages
 
 Curses for Windows:
 ````commandline
@@ -27,19 +27,22 @@ pip install windows-curses
 
 Pytest:
 ````commandline
-pip install pip install pytest
+pip install pytest
 ```` 
 
 
 ## Usage
 
-start
+Open your terminal window and change the directory to your habit tracker folder.
+Type the following:
 
-'''shell
-main.py
-'''
+````commandline
+python main.py
+````
 
-and follow instructions on the screen.
+Now the programming is running.
+
+
 
 ## Tests
 
