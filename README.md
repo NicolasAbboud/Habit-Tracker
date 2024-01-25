@@ -33,7 +33,7 @@ pip install pytest
 
 ## Usage
 
-Open your terminal window and change the directory to your habit tracker folder.
+Open your terminal window and change the directory to your habit tracker folder.  
 Type the following:
 
 ````commandline
