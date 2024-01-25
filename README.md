@@ -123,6 +123,7 @@ To test the analytics module, type the following:
 pytest test_analytics.py
 ````
 
+## Thank You!
 Thank you for using the app.
 
 
